@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ca">locale/lancerbit_ca.qm</file>
+        <file alias="da">locale/lancerbit_da.qm</file>
+        <file alias="de">locale/lancerbit_de.qm</file>
+        <file alias="en">locale/lancerbit_en.qm</file>
+        <file alias="en_US">locale/lancerbit_en_US.qm</file>
+        <file alias="es">locale/lancerbit_es.qm</file>
+        <file alias="fr_FR">locale/lancerbit_fr_FR.qm</file>
+        <file alias="it">locale/lancerbit_it.qm</file>
+        <file alias="ja">locale/lancerbit_ja.qm</file>
+        <file alias="pt">locale/lancerbit_pt.qm</file>
+        <file alias="ro_RO">locale/lancerbit_ro_RO.qm</file>
+        <file alias="ru">locale/lancerbit_ru.qm</file>
+        <file alias="zh_TW">locale/lancerbit_zh_TW.qm</file>
+    </qresource>
+</RCC>

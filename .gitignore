@@ -1,0 +1,103 @@
+# Prerequisites
+*.d
+.deps
+.dirstamp
+.libs
+.*.swp
+*.*~*
+*.bak
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+lancerbitd
+lancerbit-cli
+lancerbit-tx
+lancerbit-qt
+test_lancerbit
+test_lancerbit-qt
+
+# JetBrains
+.idea
+
+# autoreconf
+/Makefile
+src/Makefile
+src/test/Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+build-aux/config.guess
+build-aux/config.sub
+build-aux/depcomp
+build-aux/install-sh
+build-aux/ltmain.sh
+build-aux/m4/libtool.m4
+build-aux/m4/lt~obsolete.m4
+build-aux/m4/ltoptions.m4
+build-aux/m4/ltsugar.m4
+build-aux/m4/ltversion.m4
+build-aux/missing
+build-aux/compile
+build-aux/test-driver
+config.log
+config.status
+configure
+confdefs.h
+conftest.cpp
+conftest.err
+libtool
+src/config/lancerbit-config.h
+src/config/lancerbit-config.h.in
+
+# QT
+src/qt/*.moc
+src/qt/moc_*.cpp
+src/qt/forms/ui_*.h
+src/qt/test/moc*.cpp
+*.qm
+src/qt/Makefile
+lancerbit.qt
+
+#libtool object files
+*.lo
+*.la
+
+# Unit-tests
+Makefile.test
+rupaya-qt_test
+src/test/buildenv.py
+
+*.json.h
+*.raw.h
+
+# Resources cpp
+qrc_*.cpp
+
+cmake-build-debug/
